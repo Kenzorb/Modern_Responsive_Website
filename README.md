@@ -4,6 +4,13 @@ A modern, responsive frontend project built with **React**, **Tailwind CSS**, an
 
 ---
 
+## 🌐 Live Demo
+
+👉 **View the deployed app:**  
+https://kenzorb-responsive-website-blond.vercel.app/
+
+---
+
 ## ✨ Features
 
 - ⚛️ Component-based architecture with React
@@ -23,6 +30,7 @@ A modern, responsive frontend project built with **React**, **Tailwind CSS**, an
 - **Motion (Framer Motion)**
 - **JavaScript (ES6+)**
 - **Vite**
+- **Vercel** (Deployment)
 
 ---
 
